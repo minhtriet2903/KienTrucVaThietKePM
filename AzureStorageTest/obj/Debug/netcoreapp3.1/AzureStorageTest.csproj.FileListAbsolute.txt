@@ -1,0 +1,17 @@
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.exe
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.deps.json
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.runtimeconfig.json
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.runtimeconfig.dev.json
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.dll
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\AzureStorageTest.pdb
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.csproj.AssemblyReference.cache
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.AssemblyInfoInputs.cache
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.AssemblyInfo.cs
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.csproj.CoreCompileInputs.cache
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.csproj.CopyComplete
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.dll
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.pdb
+C:\Users\TADMIN\source\repos\ASC\AzureStorageTest\obj\Debug\netcoreapp3.1\AzureStorageTest.genruntimeconfig.cache
